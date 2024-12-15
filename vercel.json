@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/Legend.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "env": {
+    "TELEGRAM_TOKEN": "8073787222:AAGoYjRuggjcQ_LcrZ2ZI58yaDuDhHLhsas"
+  }
+}
